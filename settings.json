@@ -3,6 +3,6 @@
         "defaults": 
         {
             "opacity": 10,
-            "startingDirectory": "C:\\Projetos",
+            "startingDirectory": "C:\\Projects",
             "useAcrylic": true
         },
